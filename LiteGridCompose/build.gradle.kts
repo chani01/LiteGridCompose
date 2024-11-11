@@ -49,7 +49,7 @@ afterEvaluate {
             create<MavenPublication>("mavenRelease") {
                 from(components["release"])
                 groupId = "com.github.chani01"
-                artifactId = "LiteGrid"
+                artifactId = "LiteGridCompose"
                 version = libs.versions.liteGrid.get()
             }
         }

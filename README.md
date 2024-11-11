@@ -18,7 +18,7 @@ Add the following dependency to your `build.gradle` file once the library is pub
 
 ```gradle
 dependencies {
-    implementation 'com.yourdomain:litegrid:1.0.0'
+    implementation 'com.yourdomain:litegrid:<latest_version>'
 }
 ```
 

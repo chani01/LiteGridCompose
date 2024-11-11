@@ -1,5 +1,5 @@
 [versions]
-liteGrid = "1.0.3"
+liteGrid = "1.0.0"
 
 agp = "8.5.2"
 kotlin = "1.9.0"

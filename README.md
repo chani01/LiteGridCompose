@@ -14,7 +14,7 @@
 
 ## 🚀 Installation
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/yourusername/yourrepository?label=Latest%20Version)](https://github.com/yourusername/yourrepository/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/chani01/LiteGridCompose?label=Latest%20Version)](https://github.com/chani01/LiteGridCompose/releases)
 
 Add the following dependency to your `build.gradle` file once the library is published:
 
